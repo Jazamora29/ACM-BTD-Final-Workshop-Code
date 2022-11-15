@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BloonPath
+  - OutOfBounds
+  - Towers
+  - Bloons
+  - Hazards
+  - TowerDetection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 3404117679
+    locked: 0
+  - name: Bloons
+    uniqueID: 2196671699
+    locked: 0
+  - name: TowerRangeIndicators
+    uniqueID: 3352324331
+    locked: 0
+  - name: Towers
+    uniqueID: 2282881601
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SidebarUI
+    uniqueID: 4037427469
+    locked: 0
+  - name: MainUI
+    uniqueID: 1016942367
+    locked: 0
